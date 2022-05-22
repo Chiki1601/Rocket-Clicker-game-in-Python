@@ -1,1 +1,1 @@
-# Weather-application-in-Python
+# Rocker Cliker game-in-Python
